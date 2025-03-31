@@ -11,8 +11,6 @@
 
 - 🦾 I'm on the Quantum Leapers **an FTC team**
 
-- 📫 How to reach me **s21.rohan@gmail.com**
-
 - ⚡ Fun fact **I love cars and video games**
 
 <h3 align="left">Connect with me:</h3>
