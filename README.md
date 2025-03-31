@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning **Python, Machine Learning**
 
 - 👯 I’m can collaborate through **discord, email, and GitHub**
+  
+- 👨‍💻 I like to code in Visual Studio Code
 
-- 👨‍💻 I'm on the Quantum Leapers **an FTC team**
+- 🦾 I'm on the Quantum Leapers **an FTC team**
 
 - 📫 How to reach me **s21.rohan@gmail.com**
 
