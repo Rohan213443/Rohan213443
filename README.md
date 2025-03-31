@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **learning programming**
 
-- 🌱 I’m currently learning **Python, Linear**
+- 🌱 I’m currently learning **Python, Machine Learning**
 
 - 👯 I’m can collaborate through **discord, email, and GitHub**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **s21.rohan@gmail.com**
 
-- ⚡ Fun fact **I am a big car nerd**
+- ⚡ Fun fact **I love cars and video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
